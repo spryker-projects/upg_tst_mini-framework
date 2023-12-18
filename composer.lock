@@ -1779,16 +1779,16 @@
         },
         {
             "name": "spryker/application",
-            "version": "3.32.2",
+            "version": "3.33.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/application.git",
-                "reference": "823a7a6d2cb2da46c565feb7e97564fb28a7ebfd"
+                "reference": "38f7a4743a6fee17153b7e60998509be983afe37"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/application/zipball/823a7a6d2cb2da46c565feb7e97564fb28a7ebfd",
-                "reference": "823a7a6d2cb2da46c565feb7e97564fb28a7ebfd",
+                "url": "https://api.github.com/repos/spryker/application/zipball/38f7a4743a6fee17153b7e60998509be983afe37",
+                "reference": "38f7a4743a6fee17153b7e60998509be983afe37",
                 "shasum": ""
             },
             "require": {
@@ -1840,9 +1840,9 @@
             ],
             "description": "Application module",
             "support": {
-                "source": "https://github.com/spryker/application/tree/3.32.2"
+                "source": "https://github.com/spryker/application/tree/3.33.0"
             },
-            "time": "2023-07-27T15:38:05+00:00"
+            "time": "2023-09-07T10:42:07+00:00"
         },
         {
             "name": "spryker/application-extension",
