@@ -104,3 +104,5 @@ c3.php
 
 # Docker
 docker
+
+integrator.lock
