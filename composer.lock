@@ -1779,16 +1779,16 @@
         },
         {
             "name": "spryker/application",
-            "version": "3.32.2",
+            "version": "3.33.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/application.git",
-                "reference": "823a7a6d2cb2da46c565feb7e97564fb28a7ebfd"
+                "reference": "38f7a4743a6fee17153b7e60998509be983afe37"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/application/zipball/823a7a6d2cb2da46c565feb7e97564fb28a7ebfd",
-                "reference": "823a7a6d2cb2da46c565feb7e97564fb28a7ebfd",
+                "url": "https://api.github.com/repos/spryker/application/zipball/38f7a4743a6fee17153b7e60998509be983afe37",
+                "reference": "38f7a4743a6fee17153b7e60998509be983afe37",
                 "shasum": ""
             },
             "require": {
@@ -1840,9 +1840,9 @@
             ],
             "description": "Application module",
             "support": {
-                "source": "https://github.com/spryker/application/tree/3.32.2"
+                "source": "https://github.com/spryker/application/tree/3.33.0"
             },
-            "time": "2023-07-27T15:38:05+00:00"
+            "time": "2023-09-07T10:42:07+00:00"
         },
         {
             "name": "spryker/application-extension",
@@ -1891,16 +1891,16 @@
         },
         {
             "name": "spryker/authorization",
-            "version": "1.3.0",
+            "version": "1.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/authorization.git",
-                "reference": "f68b43d067e68decb4c7d54ddfd1a9c9d6bdbc8b"
+                "reference": "7e00cd7bf5432a6b57e6d4c30bc32956487b8157"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/authorization/zipball/f68b43d067e68decb4c7d54ddfd1a9c9d6bdbc8b",
-                "reference": "f68b43d067e68decb4c7d54ddfd1a9c9d6bdbc8b",
+                "url": "https://api.github.com/repos/spryker/authorization/zipball/7e00cd7bf5432a6b57e6d4c30bc32956487b8157",
+                "reference": "7e00cd7bf5432a6b57e6d4c30bc32956487b8157",
                 "shasum": ""
             },
             "require": {
@@ -1934,9 +1934,9 @@
             ],
             "description": "Authorization module",
             "support": {
-                "source": "https://github.com/spryker/authorization/tree/1.3.0"
+                "source": "https://github.com/spryker/authorization/tree/1.4.0"
             },
-            "time": "2023-05-15T15:35:26+00:00"
+            "time": "2023-09-27T16:08:39+00:00"
         },
         {
             "name": "spryker/authorization-extension",
@@ -2282,20 +2282,20 @@
         },
         {
             "name": "spryker/documentation-generator-api-extension",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/documentation-generator-api-extension.git",
-                "reference": "e445e3339cec71c79458f75bfe00652474bc5f79"
+                "reference": "a2b4ba8870358bc905c2823004c9ac5c33a06171"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/documentation-generator-api-extension/zipball/e445e3339cec71c79458f75bfe00652474bc5f79",
-                "reference": "e445e3339cec71c79458f75bfe00652474bc5f79",
+                "url": "https://api.github.com/repos/spryker/documentation-generator-api-extension/zipball/a2b4ba8870358bc905c2823004c9ac5c33a06171",
+                "reference": "a2b4ba8870358bc905c2823004c9ac5c33a06171",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.4"
+                "php": ">=8.0"
             },
             "require-dev": {
                 "spryker/code-sniffer": "*"
@@ -2317,9 +2317,9 @@
             ],
             "description": "DocumentationGeneratorApiExtension module",
             "support": {
-                "source": "https://github.com/spryker/documentation-generator-api-extension/tree/1.0.0"
+                "source": "https://github.com/spryker/documentation-generator-api-extension/tree/1.1.0"
             },
-            "time": "2022-09-28T14:47:08+00:00"
+            "time": "2023-08-30T07:54:37+00:00"
         },
         {
             "name": "spryker/documentation-generator-rest-api-extension",
@@ -2569,16 +2569,16 @@
         },
         {
             "name": "spryker/glue-application",
-            "version": "1.57.0",
+            "version": "1.58.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/glue-application.git",
-                "reference": "6a3eea0bf26f04375b6813555f5f9f64c8473803"
+                "reference": "b4b913c76e89175c9d4afe830904386d70252743"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/glue-application/zipball/6a3eea0bf26f04375b6813555f5f9f64c8473803",
-                "reference": "6a3eea0bf26f04375b6813555f5f9f64c8473803",
+                "url": "https://api.github.com/repos/spryker/glue-application/zipball/b4b913c76e89175c9d4afe830904386d70252743",
+                "reference": "b4b913c76e89175c9d4afe830904386d70252743",
                 "shasum": ""
             },
             "require": {
@@ -2592,13 +2592,13 @@
                 "spryker/event-dispatcher-extension": "^1.0.0",
                 "spryker/glue-application-extension": "^1.14.0",
                 "spryker/kernel": "^3.58.0",
+                "spryker/locale": "^3.10.0 || ^4.2.0",
                 "spryker/log": "^3.0.0",
                 "spryker/session": "^3.0.0 || ^4.0.0",
                 "spryker/store": "^1.19.0",
                 "spryker/symfony": "^3.5.0",
-                "spryker/transfer": "^3.25.0",
-                "spryker/util-encoding": "^2.0.0",
-                "willdurand/negotiation": "^2.3 || ^3.0.0"
+                "spryker/transfer": "^3.27.0",
+                "spryker/util-encoding": "^2.0.0"
             },
             "require-dev": {
                 "spryker/code-sniffer": "*",
@@ -2630,9 +2630,9 @@
             ],
             "description": "GlueApplication module",
             "support": {
-                "source": "https://github.com/spryker/glue-application/tree/1.57.0"
+                "source": "https://github.com/spryker/glue-application/tree/1.58.0"
             },
-            "time": "2023-07-20T15:05:10+00:00"
+            "time": "2023-10-17T16:01:45+00:00"
         },
         {
             "name": "spryker/glue-application-authorization-connector-extension",
@@ -2728,16 +2728,16 @@
         },
         {
             "name": "spryker/glue-backend-api-application",
-            "version": "1.4.0",
+            "version": "1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/glue-backend-api-application.git",
-                "reference": "6c093688ba13c4aaceb8eca713fcb4eef2725b2b"
+                "reference": "eeaba801086537f09b10cef157385821f626181f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/glue-backend-api-application/zipball/6c093688ba13c4aaceb8eca713fcb4eef2725b2b",
-                "reference": "6c093688ba13c4aaceb8eca713fcb4eef2725b2b",
+                "url": "https://api.github.com/repos/spryker/glue-backend-api-application/zipball/eeaba801086537f09b10cef157385821f626181f",
+                "reference": "eeaba801086537f09b10cef157385821f626181f",
                 "shasum": ""
             },
             "require": {
@@ -2748,16 +2748,16 @@
                 "spryker/glue-application": "^1.39.0",
                 "spryker/glue-application-extension": "^1.14.0",
                 "spryker/kernel": "^3.66.0",
+                "spryker/locale": "^3.10.0 || ^4.2.0",
                 "spryker/oauth-extension": "^1.7.0",
                 "spryker/store": "^1.19.0",
                 "spryker/symfony": "^3.7.0",
-                "spryker/transfer": "^3.25.0"
+                "spryker/transfer": "^3.27.0"
             },
             "require-dev": {
                 "spryker/code-sniffer": "*",
                 "spryker/glue-json-api-convention-extension": "*",
-                "spryker/testify": "*",
-                "willdurand/negotiation": "*"
+                "spryker/testify": "*"
             },
             "type": "library",
             "extra": {
@@ -2776,22 +2776,22 @@
             ],
             "description": "GlueBackendApiApplication module",
             "support": {
-                "source": "https://github.com/spryker/glue-backend-api-application/tree/1.4.0"
+                "source": "https://github.com/spryker/glue-backend-api-application/tree/1.5.0"
             },
-            "time": "2023-07-18T14:25:47+00:00"
+            "time": "2023-10-17T16:01:45+00:00"
         },
         {
             "name": "spryker/glue-backend-api-application-authorization-connector",
-            "version": "1.3.0",
+            "version": "1.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/glue-backend-api-application-authorization-connector.git",
-                "reference": "8c305a21f01b0dc8f5ecd60a4eabdab5ed04be47"
+                "reference": "ca9055f8e2531717d6aee1d6c9d0ff6e0e0cac9b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/glue-backend-api-application-authorization-connector/zipball/8c305a21f01b0dc8f5ecd60a4eabdab5ed04be47",
-                "reference": "8c305a21f01b0dc8f5ecd60a4eabdab5ed04be47",
+                "url": "https://api.github.com/repos/spryker/glue-backend-api-application-authorization-connector/zipball/ca9055f8e2531717d6aee1d6c9d0ff6e0e0cac9b",
+                "reference": "ca9055f8e2531717d6aee1d6c9d0ff6e0e0cac9b",
                 "shasum": ""
             },
             "require": {
@@ -2827,9 +2827,9 @@
             ],
             "description": "GlueBackendApiApplicationAuthorizationConnector module",
             "support": {
-                "source": "https://github.com/spryker/glue-backend-api-application-authorization-connector/tree/1.3.0"
+                "source": "https://github.com/spryker/glue-backend-api-application-authorization-connector/tree/1.4.0"
             },
-            "time": "2023-07-11T13:58:55+00:00"
+            "time": "2023-09-27T16:08:39+00:00"
         },
         {
             "name": "spryker/glue-backend-api-application-authorization-connector-extension",
@@ -3010,16 +3010,16 @@
         },
         {
             "name": "spryker/gui",
-            "version": "3.49.2",
+            "version": "3.51.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/gui.git",
-                "reference": "e9f0c145a7064d1bbdbf6ac89a7295b21bed3632"
+                "reference": "d510351d3827ee75bed94f2692461ae074f0d0b2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/gui/zipball/e9f0c145a7064d1bbdbf6ac89a7295b21bed3632",
-                "reference": "e9f0c145a7064d1bbdbf6ac89a7295b21bed3632",
+                "url": "https://api.github.com/repos/spryker/gui/zipball/d510351d3827ee75bed94f2692461ae074f0d0b2",
+                "reference": "d510351d3827ee75bed94f2692461ae074f0d0b2",
                 "shasum": ""
             },
             "require": {
@@ -3068,9 +3068,9 @@
             ],
             "description": "Gui module",
             "support": {
-                "source": "https://github.com/spryker/gui/tree/3.49.2"
+                "source": "https://github.com/spryker/gui/tree/3.51.0"
             },
-            "time": "2023-04-06T07:25:58+00:00"
+            "time": "2023-09-22T10:20:19+00:00"
         },
         {
             "name": "spryker/guzzle",
@@ -3299,16 +3299,16 @@
         },
         {
             "name": "spryker/locale",
-            "version": "4.1.0",
+            "version": "4.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/locale.git",
-                "reference": "71be6de97df74807c0eeb2e848ec752366b246b5"
+                "reference": "d65201d202bb58790cd8872eae2d599040d14b45"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/locale/zipball/71be6de97df74807c0eeb2e848ec752366b246b5",
-                "reference": "71be6de97df74807c0eeb2e848ec752366b246b5",
+                "url": "https://api.github.com/repos/spryker/locale/zipball/d65201d202bb58790cd8872eae2d599040d14b45",
+                "reference": "d65201d202bb58790cd8872eae2d599040d14b45",
                 "shasum": ""
             },
             "require": {
@@ -3321,7 +3321,8 @@
                 "spryker/propel-orm": "^1.8.0",
                 "spryker/store": "^1.19.0",
                 "spryker/store-extension": "^1.0.0",
-                "spryker/transfer": "^3.25.0",
+                "spryker/transfer": "^3.27.0",
+                "spryker/willdurand-negotiation": "^1.0.0",
                 "spryker/zed-request-extension": "^1.1.0"
             },
             "require-dev": {
@@ -3362,9 +3363,9 @@
             ],
             "description": "Locale module",
             "support": {
-                "source": "https://github.com/spryker/locale/tree/4.1.0"
+                "source": "https://github.com/spryker/locale/tree/4.2.0"
             },
-            "time": "2023-07-11T10:55:36+00:00"
+            "time": "2023-10-17T16:01:45+00:00"
         },
         {
             "name": "spryker/locale-extension",
@@ -4263,16 +4264,16 @@
         },
         {
             "name": "spryker/scheduler-jenkins",
-            "version": "1.3.0",
+            "version": "1.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/scheduler-jenkins.git",
-                "reference": "b253d7a7f7b26ceb8850e91707692df1badc26e7"
+                "reference": "a9863b6405135afce3df0e09fef308795359524d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/scheduler-jenkins/zipball/b253d7a7f7b26ceb8850e91707692df1badc26e7",
-                "reference": "b253d7a7f7b26ceb8850e91707692df1badc26e7",
+                "url": "https://api.github.com/repos/spryker/scheduler-jenkins/zipball/a9863b6405135afce3df0e09fef308795359524d",
+                "reference": "a9863b6405135afce3df0e09fef308795359524d",
                 "shasum": ""
             },
             "require": {
@@ -4308,9 +4309,9 @@
             ],
             "description": "SchedulerJenkins module",
             "support": {
-                "source": "https://github.com/spryker/scheduler-jenkins/tree/1.3.0"
+                "source": "https://github.com/spryker/scheduler-jenkins/tree/1.4.0"
             },
-            "time": "2023-03-31T19:36:11+00:00"
+            "time": "2023-08-10T14:29:24+00:00"
         },
         {
             "name": "spryker/session",
@@ -4422,16 +4423,16 @@
         },
         {
             "name": "spryker/store",
-            "version": "1.21.0",
+            "version": "1.23.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/store.git",
-                "reference": "4bf29d8f7e7706fb1cc6e6f4b0c7c5329fe0b6e7"
+                "reference": "d0d3009c346c1f785ee455ee98b1e47dd8e1044a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/store/zipball/4bf29d8f7e7706fb1cc6e6f4b0c7c5329fe0b6e7",
-                "reference": "4bf29d8f7e7706fb1cc6e6f4b0c7c5329fe0b6e7",
+                "url": "https://api.github.com/repos/spryker/store/zipball/d0d3009c346c1f785ee455ee98b1e47dd8e1044a",
+                "reference": "d0d3009c346c1f785ee455ee98b1e47dd8e1044a",
                 "shasum": ""
             },
             "require": {
@@ -4481,9 +4482,9 @@
             ],
             "description": "Store module",
             "support": {
-                "source": "https://github.com/spryker/store/tree/1.21.0"
+                "source": "https://github.com/spryker/store/tree/1.23.1"
             },
-            "time": "2023-07-24T13:36:15+00:00"
+            "time": "2023-08-31T11:27:42+00:00"
         },
         {
             "name": "spryker/store-extension",
@@ -5249,6 +5250,40 @@
                 "source": "https://github.com/spryker/web-profiler-extension/tree/1.0.0"
             },
             "time": "2019-10-09T04:52:31+00:00"
+        },
+        {
+            "name": "spryker/willdurand-negotiation",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/spryker/willdurand-negotiation.git",
+                "reference": "d94edafb762e7d1b65c140c8df62aadece12eb8b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/spryker/willdurand-negotiation/zipball/d94edafb762e7d1b65c140c8df62aadece12eb8b",
+                "reference": "d94edafb762e7d1b65c140c8df62aadece12eb8b",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0",
+                "willdurand/negotiation": "^2.3.0 || ^3.0.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "description": "WilldurandNegotiation module",
+            "support": {
+                "source": "https://github.com/spryker/willdurand-negotiation/tree/1.0.0"
+            },
+            "time": "2023-10-17T16:01:45+00:00"
         },
         {
             "name": "spryker/zed-request",
@@ -13813,16 +13848,16 @@
         },
         {
             "name": "spryker/development",
-            "version": "3.34.5",
+            "version": "3.34.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/development.git",
-                "reference": "9f5791d3b22f25e47606f79f846163acebb5571b"
+                "reference": "5b091a16053e036567e1b76d599da34b284ffb2e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/development/zipball/9f5791d3b22f25e47606f79f846163acebb5571b",
-                "reference": "9f5791d3b22f25e47606f79f846163acebb5571b",
+                "url": "https://api.github.com/repos/spryker/development/zipball/5b091a16053e036567e1b76d599da34b284ffb2e",
+                "reference": "5b091a16053e036567e1b76d599da34b284ffb2e",
                 "shasum": ""
             },
             "require": {
@@ -13863,9 +13898,9 @@
             ],
             "description": "Development module",
             "support": {
-                "source": "https://github.com/spryker/development/tree/3.34.5"
+                "source": "https://github.com/spryker/development/tree/3.34.6"
             },
-            "time": "2023-03-31T19:36:11+00:00"
+            "time": "2023-10-17T16:01:45+00:00"
         },
         {
             "name": "spryker/graph",
@@ -14487,5 +14522,5 @@
     "platform-overrides": {
         "php": "8.0.19"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }
