@@ -4422,16 +4422,16 @@
         },
         {
             "name": "spryker/store",
-            "version": "1.22.0",
+            "version": "1.23.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/store.git",
-                "reference": "b8f1d7c27a1f6cb41ad693bbae71f79bc58fde3f"
+                "reference": "4cae3bcb065468ea0d32ea3a2e4cb8c624d56205"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/store/zipball/b8f1d7c27a1f6cb41ad693bbae71f79bc58fde3f",
-                "reference": "b8f1d7c27a1f6cb41ad693bbae71f79bc58fde3f",
+                "url": "https://api.github.com/repos/spryker/store/zipball/4cae3bcb065468ea0d32ea3a2e4cb8c624d56205",
+                "reference": "4cae3bcb065468ea0d32ea3a2e4cb8c624d56205",
                 "shasum": ""
             },
             "require": {
@@ -4481,9 +4481,9 @@
             ],
             "description": "Store module",
             "support": {
-                "source": "https://github.com/spryker/store/tree/1.22.0"
+                "source": "https://github.com/spryker/store/tree/1.23.0"
             },
-            "time": "2023-08-11T07:36:13+00:00"
+            "time": "2023-08-21T15:35:01+00:00"
         },
         {
             "name": "spryker/store-extension",
