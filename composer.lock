@@ -2282,20 +2282,20 @@
         },
         {
             "name": "spryker/documentation-generator-api-extension",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/documentation-generator-api-extension.git",
-                "reference": "e445e3339cec71c79458f75bfe00652474bc5f79"
+                "reference": "a2b4ba8870358bc905c2823004c9ac5c33a06171"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/documentation-generator-api-extension/zipball/e445e3339cec71c79458f75bfe00652474bc5f79",
-                "reference": "e445e3339cec71c79458f75bfe00652474bc5f79",
+                "url": "https://api.github.com/repos/spryker/documentation-generator-api-extension/zipball/a2b4ba8870358bc905c2823004c9ac5c33a06171",
+                "reference": "a2b4ba8870358bc905c2823004c9ac5c33a06171",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.4"
+                "php": ">=8.0"
             },
             "require-dev": {
                 "spryker/code-sniffer": "*"
@@ -2317,9 +2317,9 @@
             ],
             "description": "DocumentationGeneratorApiExtension module",
             "support": {
-                "source": "https://github.com/spryker/documentation-generator-api-extension/tree/1.0.0"
+                "source": "https://github.com/spryker/documentation-generator-api-extension/tree/1.1.0"
             },
-            "time": "2022-09-28T14:47:08+00:00"
+            "time": "2023-08-30T07:54:37+00:00"
         },
         {
             "name": "spryker/documentation-generator-rest-api-extension",
